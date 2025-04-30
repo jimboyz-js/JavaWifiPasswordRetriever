@@ -66,8 +66,10 @@ cd JavaWifiPasswordRetriever
 
 2. Run the JAR file:
 ```bash
-java -jar target/wifi-password-recovery-1.0.jar
+java -jar target/JavaWifiPasswordRetriever-1.0.jar
 ```
+
+[//]: # (java -jar target/wifi-password-recovery-1.0.jar)
 
 ## 📄 Sample Output
 
